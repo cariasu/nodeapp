@@ -1,0 +1,22 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Node APP SOAInt Demo",
+  "main": "demo.js",
+  "scripts": {
+    "test": "node demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cariasu/nodeapp.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "carias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cariasu/nodeapp/issues"
+  },
+  "homepage": "https://github.com/cariasu/nodeapp#readme"
+}
