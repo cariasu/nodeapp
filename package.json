@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/cariasu/nodeapp/issues"
   },
-  "homepage": "https://github.com/cariasu/nodeapp#readme"
+  "homepage": "https://github.com/cariasu/nodeapp#readme",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
 }
